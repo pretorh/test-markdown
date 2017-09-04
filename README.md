@@ -6,3 +6,7 @@ For a proper cheat sheet, see https://github.com/adam-p/markdown-here/wiki/Markd
 
 Line 1, with 2 spaces at the end to force a line break.  
 Line 2.
+
+Relative links to files in this repo:
+- [non-markup-file/some-file](non-markup-file/some-file)
+- [directory](readme.md-in-dir)
