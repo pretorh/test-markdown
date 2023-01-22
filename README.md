@@ -12,3 +12,4 @@ Relative links to files in this repo:
 - [directory](readme.md-in-dir)
 - [markdown file in root](md-file.md)
 - [markdown file in dir](md-file-no-readme/md-file.md)
+- [`markdown file in root as code`](md-file.md)
