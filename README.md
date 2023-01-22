@@ -10,3 +10,5 @@ Line 2.
 Relative links to files in this repo:
 - [non-markup-file/some-file](non-markup-file/some-file)
 - [directory](readme.md-in-dir)
+- [markdown file in root](md-file.md) - the path
+- [markdown file in dir](md-file-no-readme/md-file.md)
